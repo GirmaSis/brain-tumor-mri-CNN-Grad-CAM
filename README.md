@@ -11,17 +11,16 @@
 - Grad-CAM visualization for model interpretability
 - ROC-AUC curve, confusion matrix, and full classification report
 
-#### Grad-CAM visualization and performance metrics
-
-<p align="left">
+<p align="left"> <b> Grad-CAM visualization </b>
   <img src="https://github.com/GirmaSis/brain-tumor-mri-CNN-Grad-CAM/blob/main/plots/gradcam_sample_1.png" /> </p>
-<p align="center">  
+<p align="center">  <b> Performance metrics </b>
   <img src="https://github.com/GirmaSis/brain-tumor-mri-CNN-Grad-CAM/blob/main/plots/training_metrics.png" />
 </p>
 
 #### Dataset
 
-The dataset can be [Accessed via Kaggle API](https://www.kaggle.com/datasets/murtozalikhon/brain-tumor-multimodal-image-ct-and-mri/data)
+The dataset can be <a href="https://www.kaggle.com/datasets/murtozalikhon/brain-tumor-multimodal-image-ct-and-mri/data" target="_blank">accessed via Kaggle API</a>.
+
 
 #### Technologies used
 ```bash
