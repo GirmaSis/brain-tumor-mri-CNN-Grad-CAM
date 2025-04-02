@@ -1,8 +1,9 @@
 ## Interpretable brain tumor classification from MRI scans Using CNN and Grad-CAM
 
-This project implements a convolutional neural network (CNN) to classify brain MRI images as **Healthy** or **Tumor**. It includes **Grad-CAM** visualizations to interpret model decisions and validate that the model focuses on meaningful regions in the image.
+> This project implements a convolutional neural network (CNN) to classify brain MRI images as **Healthy** or **Tumor**. 
+> It includes **Grad-CAM** visualizations to interpret model decisions and validate that the model focuses on meaningful regions in the image.
 
-### Features
+#### Main functionalities
 
 - Binary classification: **Healthy** vs **Tumor**
 - Custom CNN architecture trained on brain MRI scans
@@ -10,7 +11,7 @@ This project implements a convolutional neural network (CNN) to classify brain M
 - Grad-CAM visualization for model interpretability
 - ROC-AUC curve, confusion matrix, and full classification report
 
-#### sample results
+#### Sample results
 
 | Original MRI | Grad-CAM Heatmap | Overlay |
 |--------------|------------------|---------|
@@ -19,21 +20,19 @@ This project implements a convolutional neural network (CNN) to classify brain M
 📈 ROC-AUC Example:
 ![roc](assets/roc_curve.png)
 
-### Dataset
+#### Dataset
 
-Can be downloaded here: [download a similar dataset from Kaggle](https://www.kaggle.com/navoneel/brain-mri-images-for-brain-tumor-detection).
+[download dataset from Kaggle](https://www.kaggle.com/datasets/murtozalikhon/brain-tumor-multimodal-image-ct-and-mri/data).
 
-### Technologies used
+#### Technologies used
 
 - Python, PyTorch
 - Matplotlib, scikit-learn
 - OpenCV, torchvision
 - Grad-CAM for XAI (Explainable AI)
 
-### Getting started
-
 Clone this repository:
 
 ```bash
-git clone https://github.com/yourusername/brain-tumor-mri-gradcam.git
-cd brain-tumor-mri-gradcam
+git clone https://github.com/GirmaSis/brain-tumor-mri-CNN-Grad-CAM.git
+cd brain-tumor-mri-CNN-Grad-CAM
