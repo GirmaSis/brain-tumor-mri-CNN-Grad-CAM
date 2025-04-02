@@ -1,7 +1,7 @@
 ## Interpretable brain tumor classification from MRI scans Using CNN and Grad-CAM
 
-> This project implements a convolutional neural network (CNN) to classify brain MRI images as **Healthy** or **Tumor**. 
-> It includes **Grad-CAM** visualizations to interpret model decisions and validate that the model focuses on meaningful regions in the image.
+- This project implements a convolutional neural network (CNN) to classify brain MRI images as **Healthy** or **Tumor**. 
+- It includes **Grad-CAM** visualizations to interpret model decisions and validate that the model focuses on meaningful regions in the image.
 
 #### Main functionalities
 
@@ -13,13 +13,15 @@
 
 #### Sample results
 
-![original](plots/gradcam_sample_1.png)
-
-![roc](plots/training_metrics.png)
+<p align="left">
+  <img src="https://github.com/GirmaSis/brain-tumor-mri-CNN-Grad-CAM/blob/main/plots/gradcam_sample_1.png" width="50%" /> </p>
+<p align="center">  
+  <img src="https://github.com/GirmaSis/brain-tumor-mri-CNN-Grad-CAM/blob/main/plots/training_metrics.png" />
+</p>
 
 #### Dataset
 
-[download dataset from Kaggle](https://www.kaggle.com/datasets/murtozalikhon/brain-tumor-multimodal-image-ct-and-mri/data)
+[Accessed via Kaggle API](https://www.kaggle.com/datasets/murtozalikhon/brain-tumor-multimodal-image-ct-and-mri/data)
 
 #### Technologies used
 
