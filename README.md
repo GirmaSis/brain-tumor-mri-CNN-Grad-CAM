@@ -15,14 +15,14 @@
 
 | Original MRI | Grad-CAM Heatmap | Overlay |
 |--------------|------------------|---------|
-| ![original](assets/gradcam_overlay_1.png) | ![heatmap](assets/gradcam_overlay_2.png) | ![overlay](assets/gradcam_overlay_3.png) |
+| ![original](plots/gradcam_sample_1.png) | ![heatmap](plots/gradcam_sample_2.png) | ![overlay](plots/gradcam_sample_3.png) |
 
 📈 ROC-AUC Example:
-![roc](assets/roc_curve.png)
+![roc](plots/roc_curve.png)
 
 #### Dataset
 
-[download dataset from Kaggle](https://www.kaggle.com/datasets/murtozalikhon/brain-tumor-multimodal-image-ct-and-mri/data).
+[download dataset from Kaggle](https://www.kaggle.com/datasets/murtozalikhon/brain-tumor-multimodal-image-ct-and-mri/data)
 
 #### Technologies used
 
