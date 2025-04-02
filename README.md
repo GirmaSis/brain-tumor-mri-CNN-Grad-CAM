@@ -13,12 +13,9 @@
 
 #### Sample results
 
-| Original MRI | Grad-CAM Heatmap | Overlay |
-|--------------|------------------|---------|
-| ![original](plots/gradcam_sample_1.png) | ![heatmap](plots/gradcam_sample_2.png) | ![overlay](plots/gradcam_sample_3.png) |
+![original](plots/gradcam_sample_1.png)
 
-📈 ROC-AUC Example:
-![roc](plots/roc_curve.png)
+![roc](plots/training_metrics.png)
 
 #### Dataset
 
