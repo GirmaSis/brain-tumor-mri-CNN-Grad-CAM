@@ -11,7 +11,7 @@
 - Grad-CAM visualization for model interpretability
 - ROC-AUC curve, confusion matrix, and full classification report
 
-#### Sample results
+#### Grad-CAM visualization and performance metrics
 
 <p align="left">
   <img src="https://github.com/GirmaSis/brain-tumor-mri-CNN-Grad-CAM/blob/main/plots/gradcam_sample_1.png" /> </p>
@@ -21,14 +21,15 @@
 
 #### Dataset
 
-[Accessed via Kaggle API](https://www.kaggle.com/datasets/murtozalikhon/brain-tumor-multimodal-image-ct-and-mri/data)
+The dataset can be [Accessed via Kaggle API](https://www.kaggle.com/datasets/murtozalikhon/brain-tumor-multimodal-image-ct-and-mri/data)
 
 #### Technologies used
-
+```bash
 - Python, PyTorch
 - Matplotlib, scikit-learn
 - OpenCV, torchvision
 - Grad-CAM for XAI (Explainable AI)
+```
 
 Clone this repository:
 
