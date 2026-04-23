@@ -1,6 +1,6 @@
 ## Interpretable brain tumor classification from MRI scans Using CNN and Grad-CAM
 
-- This project implements a convolutional neural network (CNN) to classify brain MRI images as **Healthy** or **Tumor**. 
+- This project implements a Convolutional Neural Network (CNN) to classify brain MRI images as **Healthy** or **Tumor**. 
 - It includes **Grad-CAM** visualizations to interpret model decisions and validate that the model focuses on meaningful regions in the image.
 
 #### Main functionalities
